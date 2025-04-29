@@ -77,9 +77,6 @@ aws iam attach-user-policy --user-name NewUser --policy-arn arn:aws:iam::aws:pol
 •	Creating an Access Key for a User:
 aws iam create-access-key --user-name NewUser
 
-
-
-
 While IAM is essential for managing access control, it does have limitations:
 •	Complex policies can lead to unintended access if not configured carefully.
 •	Requires continuous auditing and updates as roles and permissions evolve.
