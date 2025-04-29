@@ -3,15 +3,12 @@
 ### REG NO: 212222220047
 
 ## AIM
-
 IAM Working Overview
 This repository provides a comprehensive overview of Identity and Access Management (IAM), focusing on its purpose, components, and implementation practices in cloud and enterprise environments. The aim is to educate developers, system admins, and security teams on IAM essentials and offer a hands-on guide for setting up and managing IAM policies.
 
 ## Introduction
 Identity and Access Management (IAM) is a framework of policies, technologies, and practices designed to manage digital identities and control access to resources. IAM helps ensure the right individuals have the right access to resources at the right time. It is crucial for securing sensitive data and resources in any organization, especially those operating in a cloud environment.
 Objectives
-
-
 •	To understand the purpose and benefits of IAM
 •	To learn about the core components of IAM
 •	To gain hands-on experience setting up and managing IAM policies
